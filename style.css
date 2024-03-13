@@ -25,3 +25,7 @@ div{
     background-color:green;
     margin-right:20px;
 }
+nav{
+    border:50%;
+display:inline;
+    border-radius: 20px;
